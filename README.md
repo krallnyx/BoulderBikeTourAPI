@@ -2,7 +2,7 @@
 
 This project should be used with the BoulderBikeTour project (which is it's FrontEnd in React)
 <br />
-<a href="https://github.com/krallnyx/BoulderBikeTourAPI"><strong>This is the BackEnd only, the FrontEnd is in this repo, in React</strong></a>
+<a href="https://github.com/krallnyx/BoulderBikeTour"><strong>This is the BackEnd only, the FrontEnd is in this repo, in React</strong></a>
 <br />
 It's written as a Ruby on Rails API
 
